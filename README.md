@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mads
+- 👋 Hi, I’m Madison
 - 👀 I’m interested in creating video games
 - 📫 You can reach me at NeisMads@gmail.com
 
