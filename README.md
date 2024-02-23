@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madison
-- 👀 I’m interested in creating video games
-- 📫 You can reach me at NeisMads@gmail.com
+- 👀 I’m interested in cyber security and video game development
+- 📫 You can reach me at Neismads@gmail.com
 
 <!---
 MadsNeis/MadsNeis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
