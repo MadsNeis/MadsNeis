@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madison
+- 👋 Hi, I’m Madison! I'm a student at OSU-Cascades studying computre science 
 - 👀 I’m interested in cyber security and video game development
 - 📫 You can reach me at Neismads@gmail.com
 
