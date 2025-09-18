@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madison! I'm a student at OSU-Cascades studying computer science 
-- 👀 I’m interested in cyber security and video game development
+- 👀 I’m interested in Software Engineering, Front-End Development, and Cyber Security.
 - 📫 You can reach me at NeisMads@gmail.com
 
 <!---
