@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Madison! I'm a student at OSU-Cascades studying computer science 
-- 👀 I’m interested in Software Engineering, Front-End Development, and Cyber Security.
+Hello, I'm Madison! I'm a third-year Computer Science student at Oregon State University-Cascades, deeply passionate about harnessing technology to create impactful solutions. My journey in the tech world has been driven by a strong interest in full stack engineering, web development, and software engineering. 
+
+I'm currently on the lookout for internship opportunities to further my experience and contribute to impactful projects. Feel free to reach out, let's connect and explore opportunities in these exciting fields!
+
+ACM-W Student Chapter Officer.
+
 - 📫 You can reach me at NeisMads@gmail.com
 
 <!---
