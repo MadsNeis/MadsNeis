@@ -12,7 +12,7 @@ Can you guess who's the recently elected treasurer of the Computer Science club 
 
 Official ACM-W Student Chapter Officer.
 
-<h3> Want to Learn More? </h3>
+<h1> Want to Learn More? </h1>
 
 - [✨ Let's connect on LinkedIn!](https://www.linkedin.com/in/madison-neiswonger/)
 
