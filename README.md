@@ -6,11 +6,11 @@ I'm currently on the lookout for internship opportunities to further my experien
 
 ACM-W Student Chapter Officer.
 
-- [<✨ Let's connect on LinkedIn!>](https://www.linkedin.com/in/madison-neiswonger/)
+- [✨ Let's connect on LinkedIn!](https://www.linkedin.com/in/madison-neiswonger/)
 
 - 📫 You can reach me at NeisMads@gmail.com
 
-- 🍡 Check out my personal website! [https://madison-neiswonger.figma.site/]
+- [🍡 Check out my personal website!](https://madison-neiswonger.figma.site/)
 
 
 
