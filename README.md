@@ -1,6 +1,6 @@
 ![Hi, I'm Madison](assets/MadsNeisGitHubPic.png)
 
-<h2> About Me! </h2>
+<h1> About Me! </h1>
 
 Hello, I'm Madison! I'm a third-year Computer Science student at Oregon State University-Cascades, passionate about developing projects that are fun, and that creative a positive impact in someone's world! My journey in the tech world has been driven by a strong interest in full stack engineering, web development, and software engineering. 
 
@@ -12,7 +12,7 @@ Can you guess who's the recently elected treasurer of the Computer Science club 
 
 Official ACM-W Student Chapter Officer.
 
-<h1> Want to Learn More? </h1>
+<h2> Want to Learn More? </h2>
 
 - [✨ Let's connect on LinkedIn!](https://www.linkedin.com/in/madison-neiswonger/)
 
