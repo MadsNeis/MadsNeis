@@ -8,9 +8,10 @@ ACM-W Student Chapter Officer.
 
 - [✨ Let's connect on LinkedIn!](https://www.linkedin.com/in/madison-neiswonger/)
 
+- [🍡 Check out my personal website!](https://madison-neiswonger.figma.site/)
+
 - 📫 You can reach me at NeisMads@gmail.com
 
-- [🍡 Check out my personal website!](https://madison-neiswonger.figma.site/)
 
 
 
