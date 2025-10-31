@@ -1,4 +1,4 @@
-![Hi, I'm Madison](assets/NeisMadsBlanket.png)
+![Hi, I'm Madison](assets/gitHubPic.png)
 
 Hello, I'm Madison! I'm a third-year Computer Science student at Oregon State University-Cascades, deeply passionate about harnessing technology to create impactful solutions. My journey in the tech world has been driven by a strong interest in full stack engineering, web development, and software engineering. 
 
