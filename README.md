@@ -1,6 +1,4 @@
-<p align="center>
-    <img src="https://github.com/MadsNeis/MadsNeis/raw/main/assets/NisMadsBlanket.png" alt="Hello I'm Madison!"
-</p>
+![Hi, I'm Madison](assets/NeisMadsBlanket.png)
 
 Hello, I'm Madison! I'm a third-year Computer Science student at Oregon State University-Cascades, deeply passionate about harnessing technology to create impactful solutions. My journey in the tech world has been driven by a strong interest in full stack engineering, web development, and software engineering. 
 
