@@ -1,4 +1,4 @@
-![Hi, I'm Madison](assets/mngithub.png)
+![Hi, I'm Madison](assets/MNgithub.png)
 
 <h1> About Me! </h1>
 
